@@ -1,7 +1,7 @@
 {
   "name": "API-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "API on node js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,14 @@
     "express": "^4.17.1",
     "body-parser": "^1.18.2",
     "mysql2": "^1.5.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/su00n/API-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/su00n/API-js/issues"
+  },
+  "homepage": "https://github.com/su00n/API-js#readme"
 }
