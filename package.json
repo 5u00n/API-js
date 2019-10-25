@@ -2,7 +2,7 @@
   "name": "API-js",
   "version": "1.0.0",
   "description": "API on node js",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
     "body-parser": "^1.18.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
     "mysql2": "^1.5.2"
   },
   "devDependencies": {},
